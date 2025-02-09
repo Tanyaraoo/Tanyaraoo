@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanyaraoo
 - 👀 I’m interested in Data Analysis and Web development
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently learning and making projects on Tableau , Power BI
 - 💞️ I’m looking to collaborate on some interesting projects related to data analysis and web development.
 - 📫 You can reach out to me at raotanya9292@gmail.com
 - 😄 Pronouns: She/her
